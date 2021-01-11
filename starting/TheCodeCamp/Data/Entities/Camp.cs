@@ -1,6 +1,7 @@
 ﻿
 using System;
 using System.Collections.Generic;
+using TheCodeCamp.Models;
 
 namespace TheCodeCamp.Data
 {
